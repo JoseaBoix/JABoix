@@ -16,10 +16,5 @@ public class test {
 				this.b = tb;
 		}
 		@Override
-		public String toString(){
-			String resultado;
-			resultado = "[a: "+a+" b: "+b+"]\n";
-			
-			return resultado;
-		}
+		
 }
